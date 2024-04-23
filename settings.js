@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
 }
 global.email = 'vajirarathnayaka891@gmail.com'
 global.github = 'https://github.com/VajirTech/VAJIRA-MD'
-global.location = 'Srilanka Colombo'
+global.location = 'Asia Kolkata'
 global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
 global.author = '𝙑𝘼𝙅𝙄𝙍𝘼 𝙈𝘿';
 global.mess = {
@@ -22,7 +22,7 @@ global.mess = {
     endLimit: '`Your daily limit has expired, the limit will be reset every 12 hours`',
 }
 
-global.owner = [process.env.OWNER_NUMBER] || ['94711453097'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.owner = [process.env.OWNER_NUMBER] || ['919048887722'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
 
 module.exports = {    
 SESSION_ID: process.env.SESSION_ID || 'youre session id',
